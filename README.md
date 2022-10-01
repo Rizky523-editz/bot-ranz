@@ -6,7 +6,7 @@
 <div align="center">
 
 ---
-## Hello, Im [Zxynri-MD](https://instagram.com/zalfapontianak?igshid=YmMyMTA2M2Y=) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+## Hello, Im [Rizky](https://instagram.com/zkyy_lord?igshid=YmMyMTA2M2Y=) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
 <p align="center">
   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hai+teman!.;My+name+is+Zxynri-MD;Sc+ini+Recode.;jangan+bully+saia%2C++Bwang+%3A).;jangan+lupa+kasih+start+🌟" alt="budii">
