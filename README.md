@@ -13,7 +13,7 @@
 </p>
 
 ## Contact Creator!
-[![Hyzer](https://img.shields.io/badge/Hyzer-25D366?style=for-the-badge&logo=Hyzer&logoColor=white)](https://wa.me/6287892711054)
+[![Rizky](https://img.shields.io/badge/Rizky-25D366?style=for-the-badge&logo=Hyzer&logoColor=white)](https://wa.me/6288213871612)
 [![Krizyn](https://img.shields.io/badge/Krizyn-25D366?style=for-the-badge&logo=Krizyn&logoColor=white)](https://wa.me/62895327934887)
 [![Rozi](https://img.shields.io/badge/Rozi-25D366?style=for-the-badge&logo=Rozi&logoColor=white)](https://wa.me/6285828764046)
 
