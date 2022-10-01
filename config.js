@@ -10,19 +10,19 @@ global.mods = ['628565337357']
 global.prems = ['6283848959158'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '𝚁𝙰𝙲𝙷𝙼𝙰𝚃_𝙾𝚆𝙽𝙴𝚁_𝚁𝙰𝙽𝚉'
-global.numberowner = '6285752300654'
-global.instagram = 'https://instagram.com/alwiiyy__'
-global.github = 'https://github.com/zabux/zxynri-ranz'
-global.dana = '085752300654'
-global.pulsa = '083848959158'
-global.gopay = '08565337357'
+global.nameowner = 'Rizky'
+global.numberowner = '6288213871612'
+global.instagram = 'https://instagram.com/zkyy_lord'
+global.github = 'https://github.com/Rizky523-editz/bot-ranz'
+global.dana = '088213871612'
+global.pulsa = '088213871612'
+global.gopay = '088213871612'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙𝐑𝐀𝐍𝐙•𝐁𝐎𝐓༽༼𝐙⳹ ❋ཻུ۪۪'
+global.namebot = 'ZKYYY BOTZ'
 global.gc = 'https://chat.whatsapp.com/GjWmVkxd3kO4kDjIGldqIe'
-global.web = 'https://github.com/zabux/zxynri-ranz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/alwiiyy__'
+global.web = 'https://github.com/Rizky523-editz/bot-ranz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/zkyy_lord'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 25.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 25.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -32,10 +32,10 @@ global.fotonya3 = 'https://telegra.ph/file/8ecdfef5fdd4ee6e1eeeb.jpg'
 global.donasi = 'https://telegra.ph/file/44dca72b188840a2f883b.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Sad-Bot' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© ❋ཻུ۪۪⸙𝐑𝐀𝐍𝐙•𝐁𝐎𝐓༽༼𝐙⳹ ❋ཻུ۪۪'
+global.wm = 'ZKYYY BOTZ'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ོۣۣۜ𝚁𝙰𝙲𝙷𝙼𝙰𝚃꧅'
-global.wm3 = 'ᯤ Oᵂηʀ᭄๖ོۣۣۜ𝚁𝙰𝙲𝙷𝙼𝙰𝚃'
+global.wm2 = 'ᯤ creator by ZKYYY BOTZ'
+global.wm3 = 'ᯤ zky botz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/e12c23364a6b320472ba7.jpg'
