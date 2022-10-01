@@ -5,9 +5,9 @@
 // RECODE BY RANZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285752300654'] 
-global.mods = ['628565337357']
-global.prems = ['6283848959158'] 
+global.owner = ['6288213871612'] 
+global.mods = ['6288213871612']
+global.prems = ['6288213871612'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Rizky'
@@ -26,10 +26,10 @@ global.webm = 'https://instagram.com/zkyy_lord'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 25.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 25.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e12c23364a6b320472ba7.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/e12c23364a6b320472ba7.jpg' //ini juga ganti
+global.fotonya1 = 'https://telegra.ph/KKolo-10-01' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/KKolo-10-01' //ini juga ganti
 global.fotonya3 = 'https://telegra.ph/file/8ecdfef5fdd4ee6e1eeeb.jpg'
-global.donasi = 'https://telegra.ph/file/44dca72b188840a2f883b.jpg' //ganti pakai poto apa aja 
+global.donasi = 'https://telegra.ph/KKolo-10-10' //ganti pakai poto apa aja 
 global.lolkey = 'Sad-Bot' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'ZKYYY BOTZ'
